@@ -1,4 +1,4 @@
-# Welcome to Palmlord Studio.
+# Welcome to Palmlord Studio!
 
 We are passionate retro game developers who believe that games are more than just entertainment—they're a form of art.
 
