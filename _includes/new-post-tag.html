@@ -1,6 +1,6 @@
 {% capture weekago %}{{ "now" | date: "%s" | minus: 3153600000 }}{% endcapture %}
 {% capture posttime %}{{ include.date | date: "%s" }}{% endcapture %}
 {% if posttime > weekago %}
-<div class="new-post-tag">{{ site.translations.text.new_post | default: "New" }}</div>
+<div class="new-post-tag">{{ site.translations.text.new_post | default: "New Game" }}</div>
 {% endif %}
 
