@@ -12,8 +12,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: AI-Powered
-    url: /ai
+  - title: Mech Striker
+    url: /mech-striker
   - title: Contact
     url: /contact
 email: youremail@test.com
